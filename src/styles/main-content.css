@@ -1,9 +1,9 @@
 /* HEADER */
 .main-container {
-  max-width: 80vw;
+  max-width: 90vw;
   height: 100vh;
-  margin-left: 320px;
-  margin-right: 56px;
+  margin-left: 314px;
+  margin-right: 0px;
 }
 
 /* DISPLAY * TOTAL e vamos passar rapidamente por cada um deles
@@ -74,7 +74,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   align-items: center;
   width: 364px;
   height: 48px;
-  margin-left: 8px;
+  margin-left: 250px;
   background-color: #242424;
   border-radius: 500px;
   border: 1px solid transparent;
@@ -135,7 +135,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
 
 /* PLAYLIST */
 .playlist-container {
-  height: 68vh;
+  height: 72vh;
   padding-top: 16px;
   margin: 10px;
   border-radius: 10px;
@@ -161,7 +161,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
 
 /* SCROLL */
 .offer__scroll-container {
-  max-height: 43vh;
+  max-height: 52vh;
   margin: 24px;
   overflow-y: auto;
 }
@@ -267,7 +267,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   right: 0;
   bottom: 0;
   height: auto;
-  width: 107px;
+  width: 164px;
   transform: rotate(25deg) translate(18%, -2%);
 }
 
