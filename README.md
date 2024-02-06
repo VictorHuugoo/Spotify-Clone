@@ -17,7 +17,7 @@
 
 ## Links
 
- - Repositorio: https://github.com/Muriloloures/Clone-Netflix
+ - Repositorio: https://github.com/Muriloloures/Clone-Netflix](https://victorhuugoo.github.io/Spotify-Clone/
 
 ## Autor:
  
