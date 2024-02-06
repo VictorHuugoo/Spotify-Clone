@@ -23,5 +23,5 @@
  
   **Victor Hugo**
 
-  Obrigado por me tirar um tempinho para ver meu projeto.
-  Até o proximo projeto!
+  Obrigado por tirar um tempinho para ver meu projeto. <br>
+  Até o proximo projeto! :wink:
